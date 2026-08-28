@@ -8,3 +8,4 @@ Compile using vcpkg in manifest mode, please!
 Be aware that this might only build nicely on Windows at the moment.
 
 This project is public domain! :D
+The assets in the res/ directory (see res/credits.txt) carry their own licensing.
