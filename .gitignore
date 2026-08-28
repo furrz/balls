@@ -1,0 +1,6 @@
+cmake-build-*
+balls-release
+*.dll
+*.o
+*.exe
+.idea
